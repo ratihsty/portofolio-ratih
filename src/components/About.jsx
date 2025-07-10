@@ -50,12 +50,12 @@ function About() {
         </p>
 
         <a
-          href="https://drive.google.com/file/d/18UgkLR4mtlEZw7sKD-dcO-UjwcGrLcqC/view?usp=sharing"
+          href="https://drive.google.com/file/d/1zFMciKNiZH1Iqo2-4OtFwXwzW8vBd4BB/view?usp=sharing"
           className="mt-8 inline-block px-6 py-2 border-2 border-cyan-400 text-cyan-400 rounded hover:bg-cyan-400 hover:text-black transition"
           data-aos="fade-up"
           data-aos-delay="1000"
         >
-          Resume
+          Detail Me
         </a>
       </div>
 
