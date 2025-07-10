@@ -1,6 +1,6 @@
 function Hero() {
     return (
-      <section className="min-h-screen flex flex-col justify-center items-start pt-5 pl-16 md:pl-32">
+      <section className="min-h-screen flex flex-col justify-center items-start pt-5 px-6 md:px-32">
         <p
           className="text-cyan-400 text-sm md:text-base"
           data-aos="fade-up"

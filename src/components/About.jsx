@@ -2,8 +2,7 @@ import fotoAra from "../assets/foto-ara.jpeg";
 
 function About() {
   return (
-    <section id="About"
-      className="py-5 md:flex md:items-start gap-10 pl-16 md:pl-32"
+    <section id="About" className="py-5 md:flex md:items-start gap-10 px-6 md:px-32"
       data-aos="fade-up"
     >
       <div className="md:w-2/3 max-w-2xl">
